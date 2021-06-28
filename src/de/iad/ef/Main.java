@@ -20,6 +20,6 @@ public class Main {
             System.out.println("Abbuchung von " + betrag + " Euro nicht erfolgt");
 
         }
-        System.out.println(konto.display());
+        System.out.println(konto.display());;;
     }
 }

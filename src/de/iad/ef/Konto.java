@@ -30,7 +30,8 @@ public class Konto {
         //this.name = inhaber;
 
     }
-    public Konto(String inhaber,float kk) {
+
+    public Konto(String inhaber, float kk) {
         this.kk = kk;
         this.name = inhaber;
 
